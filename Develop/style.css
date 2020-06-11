@@ -6,6 +6,12 @@
     background-color: rgb(150, 177, 253);
 }
 .col-sm{
-    width: 100% !important;
+    width: 33.33% !important;
 }
-
+.card{
+ margin: 10px;
+ color: black;
+}
+body{
+    color: white;
+}
